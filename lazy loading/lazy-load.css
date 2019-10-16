@@ -1,0 +1,8 @@
+.bumblebee { 
+height: auto;
+width: 700px;
+}
+
+.lazybumblebee {
+filter: blur(3);
+}
